@@ -16,7 +16,6 @@ The words of which the initial letter is capitalized have meanings defined under
 ### Definitions
 For the purposes of this Privacy Policy:
 * **Account** means a unique account created for You to access our Service or parts of our Service.
-* **Affiliate** means an entity that controls, is controlled by or is under common control with a party.
 * **Application** refers to Немецкие слова A1 - карточки, the software program provided by the Company.
 * **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Карточки немецкий A1.
 * **Country** refers to: Poland.
@@ -32,11 +31,10 @@ For the purposes of this Privacy Policy:
 ### Types of Data Collected
 
 #### Usage Data
-Usage Data is collected automatically when using the Service.
+Usage Data is collected automatically when using the Service. It may include information such as Your Device's Internet Protocol address (e.g. IP address), unique device identifiers, **Google Advertising ID**, operating system, and other diagnostic data.
 
-Usage Data may include information such as Your Device's Internet Protocol address (e.g. IP address), unique device identifiers, **Google Advertising ID**, operating system, and other diagnostic data.
-
-When You access the Service by or through a mobile device, We may collect certain information automatically, including the type of mobile device You use, Your mobile device unique ID, Your mobile operating system, and unique device identifiers.
+#### Health and Fitness Data (Important)
+**The Application does not access, collect, or process any health-related data.** This includes, but is not limited to, mental health information, stress management, relaxation data, or physical activity information.
 
 ### Use of Your Personal Data
 The Company may use Personal Data for the following purposes:
@@ -52,7 +50,7 @@ The Company may use Personal Data for the following purposes:
 To provide ads in the Application, We use third-party Service Providers, who may collect information used to identify You. These third-party services include:
 
 * **Google Play Services:** [https://www.google.com/policies/privacy/](https://www.google.com/policies/privacy/)
-* **AdMob:** [https://support.google.com/admob/answer/6128543?hl=ru](https://support.google.com/admob/answer/6128543?hl=ru)
+* **AdMob:** [https://support.google.com/admob/answer/6128543?hl=en](https://support.google.com/admob/answer/6128543?hl=en)
 
 ### Legal Basis for Processing under GDPR
 We process Your information because it is necessary for Our legitimate interests (providing and improving the Service) and, where required, based on Your consent provided through the consent tool in the Application.
